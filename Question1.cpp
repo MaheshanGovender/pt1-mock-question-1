@@ -27,7 +27,7 @@ int main(int argc, char *argv[]) {
 	 cin >> name;
 	 cout << "Hello, " << name << endl;//Uncommented these four lines of code in 'master' branch.
 
-	// 1.4 merge branch "hello" into "master" keeping ALL of the code added so far
+	// 1.4 merge branch "hello" into "master" keeping ALL of the code added so far// Branches have been merged.
 
 	// 1.5 make a merge commit 
 
